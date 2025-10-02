@@ -50771,6 +50771,9 @@
           case "jest":
             e = [/\.kodub\.com$/];
             break;
+          case "awilh37":
+            e = [/\.awilh37\.github\.com$/];
+            break;
           case "electron":
           case "capacitor":
             return !1;
@@ -50803,6 +50806,8 @@
           case "jest":
             e = "https://www.kodub.com/apps/polytrack";
             break;
+          case "awilh37":
+            e = "https://awilh37.github.io/geotrack";
           case "itch":
             e = "https://kodub.itch.io/polytrack";
             break;
